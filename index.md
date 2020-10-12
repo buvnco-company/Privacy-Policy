@@ -118,15 +118,15 @@ f. 웹, 어플리케이션 방문기록 : 3년
 
 [QuizQuiz]
 회사에서 운영하는 'QuizQuiz'의 노래퀴즈 서비스는 Youtbue Api를 이용한 영상 및 플레이어 등을 제공하고 있습니다. 아래 링크를 통해 Youtube 이용약관 및 구글 개인정보처리방침을 확인할 수 있습니다.
-Youtube 이용약관 : https://www.youtube.com/t/terms
-구글 개인정보처리방침 : https://policies.google.com/privacy
+1. Youtube 이용약관 : https://www.youtube.com/t/terms
+2. 구글 개인정보처리방침 : https://policies.google.com/privacy
 
 
 1. 개인정보관리책임자
 성 명 : 서문은지
 직 위 : 대표
-[quizquiz 부서] quiz200830@gmail.com
-[uday 부서] uday20191212@gmail.com
+a.quizquiz 부서 / quiz200830@gmail.com
+b. uday 부서 / uday20191212@gmail.com
 
 2. 개인정보관리담당자
 성 명 : 김영수
